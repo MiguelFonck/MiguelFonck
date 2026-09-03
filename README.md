@@ -36,5 +36,3 @@
 
 ---
 
-Credit: [Th1l1na](https://github.com/Th1l1na)
-Last Edited on: 13/04/2026

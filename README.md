@@ -32,6 +32,8 @@
 
 <a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="30" width="30" /></a> miguel.angelfr114@gmail.com
 
+<a href="tel:+573227424793" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord-Dark.svg" height="30" width="30" /></a> 322 742 4793
+
 
 
 

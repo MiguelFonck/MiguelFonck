@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hey,%20I%20am%20Miguel%20Fonceca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<h1 align="center">Hi 👋, I'm Miguel Fonceca</h1>
 <h3 align="center">A passionate Software Depelopment student from Colombia.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **miguel.angerfr114@gmail.com**
 
-<h2 align="left">Skills to learn:</h2>
+<h2 align="left">Skills:</h2>
 
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>

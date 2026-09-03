@@ -30,7 +30,7 @@
 <h2 align="left">How to reach me:</h2>
 
 
-<a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="miguel.angelfr114" height="30" width="40" /></a>
+<a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="miguel.angelfr114" height="30" width="40" /></a>
 
 
 

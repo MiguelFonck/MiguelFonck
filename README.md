@@ -1,4 +1,4 @@
-![MasterHead](<https://i.imgur.com/EAmNdPB.png>)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hey,%20I%20am%20Miguel%20Fonceca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <h1 align="center">Hi 👋, I'm Miguel Fonceca</h1>
 <h3 align="center">A passionate Software Depelopment student from Colombia.</h3>

@@ -3,13 +3,9 @@
 <h3 align="center">About me</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
+- 💬 A passionate Software Development student from Colombia.
 
-<h1><h4>
-
-
-- 💬 A passionate Software Depelopment student from Colombia.
- 
-- 🔭 I’m currently studing at Campuslands and Smart Academy
+- 🔭 I'm currently studying at Campuslands and Smart Academy
 
 
 

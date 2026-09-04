@@ -3,10 +3,11 @@
 <h3 align="center">About me</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-- 💬 A passionate Software Development student from Colombia.
-
-- 🔭 I'm currently studying at Campuslands and Smart Academy
-
+- 🌱 I'm always looking to learn something new, whether it's a language, a framework, or just a better way to write code.
+- 🎯 My goal is to become a full-stack developer and keep growing in the tech world.
+- 🤝 I enjoy working in team, sharing knowledge and learning from others.
+- 🎮 When I'm not coding, you'll probably find me gaming or watching a good series.
+- 📍 Based in Colombia, open to remote opportunities.
 
 
 <h2 align="left">Skills:</h2>

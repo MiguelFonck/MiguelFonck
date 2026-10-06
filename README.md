@@ -44,9 +44,9 @@
 
 <p>
   <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Spanish-Native-8B7CFF?style=for-the-badge" alt="Spanish" />
-  <img src="https://img.shields.io/badge/English-B2-8B7CFF?style=for-the-badge" alt="English" />
-  <img src="https://img.shields.io/badge/French-A2-8B7CFF?style=for-the-badge" alt="French" />
+  <img src="https://img.shields.io/badge/Spanish-Native-8B7CFF?style=for-the-badge" alt="Spanish: Native" />
+  <img src="https://img.shields.io/badge/English-C1-8B7CFF?style=for-the-badge" alt="English: C1" />
+  <img src="https://img.shields.io/badge/French-In%20progress-FF8FAB?style=for-the-badge" alt="French: In progress" />
 </p>
 
 <h2 align="left">🚀 Featured Projects</h2>

@@ -47,7 +47,7 @@
     </td>
       <td width="33%" valign="top">
       <a href="https://github.com/MiguelFonck/Proyecto-HTML-CSS.git">
-        <img src="./capturas/proyecto2.png" alt="Proyecto 2" width="100%" />
+        <img src="./proyecto2-devquote.svg" alt="Proyecto 2" width="100%" />
       </a>
       <h3>DevQuote UI</h3>
       <p>Este proyecto es una interfaz web interactiva en HTML5 y CSS3 nativo que simula el proceso de cotización de software, resolviendo la falta de herramientas visuales claras y accesibles para que emprendedores y empresas estimen costos de desarrollo sin complicaciones.</p>

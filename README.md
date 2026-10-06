@@ -35,6 +35,27 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git">
+        <img src="./capturas/proyecto1.png" alt="Proyecto 1" width="100%" />
+      </a>
+      <h3>Simulador de Gasto Diario</h3>
+      <p>El Simulador de Gasto Diario es una herramienta de consola sencilla que permite registrar y categorizar gastos personales en un archivo JSON, resolviendo la falta de un control financiero práctico y dinámico sin las complicaciones de las aplicaciones avanzadas.</p>
+      <img src="https://img.shields.io/badge/Python-8B7CFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PostgreSQL-8B7CFF?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <p>
+        <a href="[URL-DEL-REPO-1](https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git)">Código</a> |
+        <a href="[URL-DEMO-1](https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git)">Demo</a>
+      </p>
+    </td>
+
+  
+  </tr>
+</table>
+
+
 
 
 

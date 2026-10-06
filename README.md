@@ -21,8 +21,15 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
+<h2 align="left">CV</h2>
 
-<h2 align="left">How to reach me:</h2>
+
+
+<h2 align="left">CV / Resume</h2>
+
+<a href="TU_ENLACE_AQUI_PDF" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+</a>
 
 
 <a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="30" width="30" /></a> miguel.angelfr114@gmail.com

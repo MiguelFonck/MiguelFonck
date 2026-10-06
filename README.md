@@ -43,13 +43,18 @@
       </a>
       <h3>Simulador de Gasto Diario</h3>
       <p>El Simulador de Gasto Diario es una herramienta de consola sencilla que permite registrar y categorizar gastos personales en un archivo JSON, resolviendo la falta de un control financiero práctico y dinámico sin las complicaciones de las aplicaciones avanzadas.</p>
-      <img src="https://img.shields.io/badge/Python-8B7CFF?style=flat-square&logo=python&logoColor=white" alt="Python" />ç
-      <p>
-        <a href="[URL-DEL-REPO-1](https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git)">Código</a> |
-        <a href="[URL-DEMO-1](https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git)">Demo</a>
-      </p>
+      <img src="https://img.shields.io/badge/Python-8B7CFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>
-
+      <td width="33%" valign="top">
+      <a href="https://github.com/MiguelFonck/Proyecto-HTML-CSS.git">
+        <img src="./capturas/proyecto2.png" alt="Proyecto 2" width="100%" />
+      </a>
+      <h3>Nombre del proyecto 2</h3>
+      <p>Este proyecto es una interfaz web interactiva en HTML5 y CSS3 nativo que simula el proceso de cotización de software, resolviendo la falta de herramientas visuales claras y accesibles para que emprendedores y empresas estimen costos de desarrollo sin complicaciones.</p>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="></a>
+    </td>
+  
   
   </tr>
 </table>

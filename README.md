@@ -50,8 +50,8 @@
       <a href="https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git">
         <img src="./proyecto1-gastos (1).svg" alt="Proyecto 1" width="100%" />
       </a>
-      <h3>Simulador de Gasto Diario</h3>
-      <p>El Simulador de Gasto Diario es una herramienta de consola sencilla que permite registrar y categorizar gastos personales en un archivo JSON, resolviendo la falta de un control financiero práctico y dinámico sin las complicaciones de las aplicaciones avanzadas.</p>
+      <h3>Daily Expense Simulator</h3>
+      <p>The Daily Expense Simulator is a simple console tool that allows you to log and categorize personal expenses in a JSON file, addressing the lack of practical, dynamic financial control without the complexities of advanced applications.</p>
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
     </td>
       <td width="33%" valign="top">
@@ -59,7 +59,7 @@
         <img src="./proyecto2-devquote.svg" alt="Proyecto 2" width="100%" />
       </a>
       <h3>DevQuote UI</h3>
-      <p>Este proyecto es una interfaz web interactiva en HTML5 y CSS3 nativo que simula el proceso de cotización de software, resolviendo la falta de herramientas visuales claras y accesibles para que emprendedores y empresas estimen costos de desarrollo sin complicaciones.</p>
+      <p>This project is an interactive web interface built with native HTML5 and CSS3 that simulates the software estimation process, addressing the lack of clear, accessible visual tools for entrepreneurs and businesses to calculate development costs without hassles.</p>
       <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="></a>
     </td>
@@ -67,8 +67,8 @@
       <a href="https://github.com/MiguelFonck/Proyecto-js.git">
         <img src="./proyecto3-acme.svg" alt="Proyecto 3" width="100%" />
       </a>
-      <h3>Plataforma para exámenes – Acme School</h3>
-      <p>Acme School Exams es una plataforma web desarrollada en JavaScript con gestión privada de usuarios y exámenes, y un módulo público interactivo con temporizador en tiempo real, resolviendo la necesidad de la escuela Acme de automatizar la evaluación en línea y centralizar la administración académica de forma intuitiva sin depender de un servidor externo.</p>
+      <h3>Exam Platform – Acme School</h3>
+      <p>Acme School Exams is a web platform developed in JavaScript featuring private user and exam management, alongside an interactive public module with a real-time timer. It addresses Acme School's need to automate online evaluations and centralize academic administration intuitively without relying on an external server.</p>
       <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
       <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
       <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="></a>

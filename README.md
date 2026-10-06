@@ -1,13 +1,13 @@
 <img src="./header-globo.svg" alt="Miguel Fonceca" width="100%" />
 
 
-<h3 align="center">About me</h3>
+<h2 align="center">About me</h2>
 <img align="right" alt="Camino hacia la cima" width="400" src="./camino-exito.svg">
 
 - 🌱 I'm always looking to learn something new, whether it's a language, a framework, or just a better way to write code.
 - 🎯 My goal is to become a full-stack developer and keep growing in the tech world.
 - 🤝 I enjoy working in team, sharing knowledge and learning from others.
-- 🎮 When I'm not coding, you'll probably find me gaming or watching a good series.
+- 🎮 When I'm not coding, you'll probably find me gaming or playing soccer.
 - 📍 Based in Colombia, open to remote opportunities.
 
 

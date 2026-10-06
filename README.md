@@ -38,7 +38,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE3LjUgMi41TDIxLjUgNC41VjE5LjVMMTcuNSAyMS41TDcgMTIuOEwzLjggMTUuMkwyLjUgMTQuNVY5LjVMMy44IDguOEw3IDExLjJaTTE3LjUgNy4yTDExLjMgMTJMMTcuNSAxNi44WiIvPjwvc3ZnPg==" alt="VS Code" /></a></p>
+<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE3LjUgMi41TDIxLjUgNC41VjE5LjVMMTcuNSAyMS41TDcgMTIuOEwzLjggMTUuMkwyLjUgMTQuNVY5LjVMMy44IDguOEw3IDExLjJaTTE3LjUgNy4yTDExLjMgMTJMMTcuNSAxNi44WiIvPjwvc3ZnPg==" alt="VS Code" /></a>
+<a href="#"><img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
+</p>
 
 <h2 align="left">🚀 Featured Projects</h2>
 

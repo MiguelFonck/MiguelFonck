@@ -22,8 +22,7 @@
 </p>
 
 
-v
-
+<h2 align="left">CV/Resume</h2>
 <p>
   <a href="https://drive.google.com/file/d/1TwI0xADDtvixbAJS4S9mZkY1NE5hHmQ9/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Descargar%20CV-PDF-E03C31?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV Miguel Fonceca" />

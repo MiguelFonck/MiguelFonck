@@ -76,6 +76,7 @@
   </tr>
 </table>
 
+<hr>
 
 <table>
   <tr>

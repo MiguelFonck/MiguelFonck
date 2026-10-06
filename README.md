@@ -21,9 +21,6 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-<h2 align="left">CV</h2>
-
-
 
 <h2 align="left">CV / Resume</h2>
 

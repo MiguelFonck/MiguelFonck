@@ -25,14 +25,11 @@
 <h2 align="left">CV / Resume</h2>
 
 <p>
-  <a href="AQUI_TU_ENLACE_AL_PDF_EN_DRIVE_O_GITHUB" target="_blank">
+  <a href="https://drive.google.com/file/d/1TwI0xADDtvixbAJS4S9mZkY1NE5hHmQ9/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Descargar%20CV-PDF-E03C31?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV Miguel Fonceca" />
   </a>
 </p>
 
-<details>
-  <summary><b>🔍 Haz clic para desplegar/contraer el resumen de mi CV</b></summary>
-  <br>
 
 
 <a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="30" width="30" /></a> miguel.angelfr114@gmail.com

@@ -42,6 +42,13 @@
 <a href="#"><img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
 </p>
 
+<p>
+  <b>Languages:</b><br/>
+  <img src="https://img.shields.io/badge/Spanish-Native-8B7CFF?style=for-the-badge" alt="Spanish" />
+  <img src="https://img.shields.io/badge/English-B2-8B7CFF?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/French-A2-8B7CFF?style=for-the-badge" alt="French" />
+</p>
+
 <h2 align="left">🚀 Featured Projects</h2>
 
 <table>

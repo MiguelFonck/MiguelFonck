@@ -39,7 +39,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/MiguelFonck/Proyecto_Python_FoncecaMiguel.git">
-        <img src="./capturas/proyecto1.png" alt="Proyecto 1" width="100%" />
+        <img src="./proyecto1-gastos (1).svg" alt="Proyecto 1" width="100%" />
       </a>
       <h3>Simulador de Gasto Diario</h3>
       <p>El Simulador de Gasto Diario es una herramienta de consola sencilla que permite registrar y categorizar gastos personales en un archivo JSON, resolviendo la falta de un control financiero práctico y dinámico sin las complicaciones de las aplicaciones avanzadas.</p>
@@ -56,7 +56,7 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/MiguelFonck/Proyecto-js.git">
-        <img src="./capturas/proyecto3.png" alt="Proyecto 3" width="100%" />
+        <img src="./proyecto3-acme.svg" alt="Proyecto 3" width="100%" />
       </a>
       <h3>Plataforma para exámenes – Acme School</h3>
       <p>Acme School Exams es una plataforma web desarrollada en JavaScript con gestión privada de usuarios y exámenes, y un módulo público interactivo con temporizador en tiempo real, resolviendo la necesidad de la escuela Acme de automatizar la evaluación en línea y centralizar la administración académica de forma intuitiva sin depender de un servidor externo.</p>

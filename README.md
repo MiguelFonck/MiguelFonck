@@ -43,7 +43,7 @@
       </a>
       <h3>Simulador de Gasto Diario</h3>
       <p>El Simulador de Gasto Diario es una herramienta de consola sencilla que permite registrar y categorizar gastos personales en un archivo JSON, resolviendo la falta de un control financiero práctico y dinámico sin las complicaciones de las aplicaciones avanzadas.</p>
-      <img src="https://img.shields.io/badge/Python-8B7CFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
     </td>
       <td width="33%" valign="top">
       <a href="https://github.com/MiguelFonck/Proyecto-HTML-CSS.git">

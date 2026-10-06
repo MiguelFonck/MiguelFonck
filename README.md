@@ -2,7 +2,7 @@
 
 
 <h3 align="center">About me</h3>
-<p align="center"><img src="./camino-exito.svg" alt="Camino hacia la cima" width="600" /></p>
+<p align="right"><img src="./camino-exito.svg" alt="Camino hacia la cima" width="600" /></p>
 - 🌱 I'm always looking to learn something new, whether it's a language, a framework, or just a better way to write code.
 - 🎯 My goal is to become a full-stack developer and keep growing in the tech world.
 - 🤝 I enjoy working in team, sharing knowledge and learning from others.

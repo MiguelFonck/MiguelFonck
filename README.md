@@ -60,8 +60,8 @@
       </a>
       <h3>Plataforma para exámenes – Acme School</h3>
       <p>Acme School Exams es una plataforma web desarrollada en JavaScript con gestión privada de usuarios y exámenes, y un módulo público interactivo con temporizador en tiempo real, resolviendo la necesidad de la escuela Acme de automatizar la evaluación en línea y centralizar la administración académica de forma intuitiva sin depender de un servidor externo.</p>
-      <img src="https://img.shields.io/badge/JavaScript-8B7CFF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-8B7CFF?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
       <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="></a>
     </td>
   </tr>

@@ -77,20 +77,22 @@
 </table>
 
 
-
-
-
-
-<h2 align="left">CV/Resume</h2><h2 align="left">Portfolio</h2>
-<p>
-  <a href="https://drive.google.com/file/d/1TwI0xADDtvixbAJS4S9mZkY1NE5hHmQ9/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar%20CV-PDF-E03C31?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV Miguel Fonceca" />
-  </a>
-    <a href="https://https://miguelfonck.github.io/Portafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Portafolio-WEB-8B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portafolio de Miguel Fonceca" />
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td valign="top">
+      <h3>CV/Resume</h3>
+      <a href="https://drive.google.com/file/d/1TwI0xADDtvixbAJS4S9mZkY1NE5hHmQ9/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Descargar%20CV-PDF-E03C31?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV Miguel Fonceca" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Portfolio</h3>
+      <a href="https://miguelfonck.github.io/Portafolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Portafolio-WEB-8B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portafolio de Miguel Fonceca" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">How to reach me</h2>
 <a href="mailto:miguel.angelfr114@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="30" width="30" /></a> miguel.angelfr114@gmail.com

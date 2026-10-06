@@ -1,4 +1,4 @@
-<img src="./header.svg" alt="Miguel Fonceca" width="100%" />
+<img src="./header-globo.svg" alt="Miguel Fonceca" width="100%" />
 
 
 <h3 align="center">About me</h3>

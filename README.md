@@ -10,6 +10,7 @@
 - 🎮 When I'm not coding, you'll probably find me gaming or playing soccer.
 - 📍 Based in Colombia, open to remote opportunities.
 
+<br clear="right" />
 
 <h2 align="left">🛠️ Tech Stack & Skills</h2>
 
